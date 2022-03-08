@@ -1,0 +1,33 @@
+_repo: The-Invention-of-Typography-A-Brief-Sketch-of-the-Invention-of-Printing-and-How-it-Came-About_67471
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Frederick W. (Frederick William)
+    alias: Hamilton, Frederick William
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '7092'
+    url: http://www.gutenberg.org/2009/agents/7092
+description: ''
+gutenberg_issued: '2022-02-22'
+identifiers:
+  gutenberg: '67471'
+  lccn: '19001889'
+language: en
+pgterms:marc905: 20060413172505hamilton
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Richard Tonsing, Barbara Tozier, Bill Tozier, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: United States :United Typothetae of America,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Typographic technical series for apprentices, pt. VIII, no. 50
+subjects:
+- !lcc 'Z'
+- !lcsh 'Printing -- History -- Origin and antecedents'
+- GITenberg
+title: "The Invention of Typography\r\nA Brief Sketch of the Invention of Printing\
+  \ and How it Came About"
+url: http://www.gutenberg.org/ebooks/67471
